@@ -1,0 +1,28 @@
+[ {
+  "userId" : "abc123",
+  "name" : "Atharv",
+  "password" : "26#athu@12",
+  "ticketBooked" : [ {
+    "ticketId" : "1",
+    "userId" : null,
+    "source" : "Banglore",
+    "destination" : "Delhi",
+    "dot" : "2025-1-07T18:30:00Z",
+    "train" : {
+      "trainId" : "T1",
+      "trainNo" : 1,
+      "stations" : [ "Pune", "Indore", "Lucknow" ],
+      "stationTimes" : {
+        "Lucknow" : "23:56:09",
+        "Pune" : "20:55:00",
+        "Indore" : "22:10:08"
+      },
+      "seats" : [ [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ] ]
+    }
+  } ]
+}, {
+  "userId" : "shambhu71da0f4a",
+  "name" : "shambhu",
+  "password" : "shambhu@123",
+  "ticketBooked" : [ ]
+} ]
